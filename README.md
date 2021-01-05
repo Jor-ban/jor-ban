@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**random-jordan/random-jordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Jamol and I am a front-end developer ( mostly 😁)
+Very motivated and patient programmer
+Love to perfect every detail && challenge myself and my skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------------
+
+### Languages I know:
+ - JavaScript ⭐⭐⭐ 
+ - Java       ⭐⭐⭐
+ - C / C++    ⭐⭐
+ - Python     ⭐⭐
+ 
+ 
+ ### Have knowledge in such technologies as:
+  - Bootstrap
+  - REST API client
+  - Google Firestore and Google API ( SDK )
+  - GNU/Linux user
+  
+  -------------------------------
+  last worked on https://greenapp-host.web.app/
