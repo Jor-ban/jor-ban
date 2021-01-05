@@ -20,6 +20,7 @@ Love to perfect every detail && challenge myself and my skills
   - Google Firestore and Google API ( SDK )
   - SPA / SSR
   - Git
+  - Photoshop / Illustrator / Figma
   - GNU / Linux user
   
   -------------------------------
