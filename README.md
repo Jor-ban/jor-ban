@@ -21,4 +21,9 @@ Love to perfect every detail && challenge myself and my skills
   - GNU/Linux user
   
   -------------------------------
+ ### Contacts
+  💬 [Telegram](https://t.me/jor_ban)
+  📷 [Instagram](https://www.instagram.com/chady_yes/)
+  🔵 [Vkontakte](https://vk.com/please_god_help_me)
+  -------------------------------
   last worked on https://greenapp-host.web.app/
