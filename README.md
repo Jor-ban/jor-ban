@@ -18,7 +18,9 @@ Love to perfect every detail && challenge myself and my skills
   - Bootstrap
   - REST API client
   - Google Firestore and Google API ( SDK )
-  - GNU/Linux user
+  - SPA / SSR
+  - Git
+  - GNU / Linux user
   
   -------------------------------
  ### Contacts
