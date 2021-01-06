@@ -18,7 +18,7 @@ Love to perfect every detail && challenge myself and my skills
   - Bootstrap
   - REST API client
   - Google Firestore and Google API ( SDK )
-  - SPA / SSR
+  - SPA / SSR ( Vue + Nuxt )
   - Git
   - Photoshop / Illustrator / Figma
   - GNU / Linux user
