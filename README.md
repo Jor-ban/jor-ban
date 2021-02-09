@@ -24,6 +24,11 @@ Love to perfect every detail && challenge myself and my skills
   - GNU / Linux user
   
   -------------------------------
+### I speak:
+ - English (moderate)
+ - Russian (fluent)
+ - Uzbek (native)
+ ------------------------------------
  ### Contacts
   💬 [Telegram](https://t.me/jor_ban)
   📷 [Instagram](https://www.instagram.com/chady_yes/)
