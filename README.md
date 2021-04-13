@@ -5,7 +5,7 @@ Very motivated and patient programmer
 Love to perfect every detail && challenge myself and my skills
 
 
--------------------------------------
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true)
 
 ### Languages I know:
  - JavaScript ⭐⭐⭐ 
@@ -33,5 +33,3 @@ Love to perfect every detail && challenge myself and my skills
   💬 [Telegram](https://t.me/jor_ban)
   📷 [Instagram](https://www.instagram.com/chady_yes/)
   🔵 [Vkontakte](https://vk.com/please_god_help_me)
-  -------------------------------
-  last worked on https://greenapp-host.web.app/
