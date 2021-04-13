@@ -4,13 +4,11 @@
 Very motivated and patient programmer
 Love to perfect every detail && challenge myself and my skills
 
-
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true)
-----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-jordan)
------
+------
 ![Jordan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jorban)
- 
+------
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true)
  
  ### Have knowledge in such technologies as:
   - Bootstrap
