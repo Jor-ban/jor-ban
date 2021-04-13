@@ -6,12 +6,10 @@ Love to perfect every detail && challenge myself and my skills
 
 
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true)
-
-### Languages I know:
- - JavaScript ⭐⭐⭐ 
- - Java       ⭐⭐⭐
- - C / C++    ⭐⭐
- - Python     ⭐⭐
+----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-jordan)
+-----
+![Jordan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jorban)
  
  
  ### Have knowledge in such technologies as:
