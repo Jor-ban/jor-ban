@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### My name is Jamol and I am a front-end developer ( mostly 😁)
-Very motivated and patient programmer
+Very motivated and patient programmer,
 Love to perfect every detail && challenge myself and my skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-jordan)
