@@ -29,3 +29,4 @@ Love to perfect every detail && challenge myself and my skills
   💬 [Telegram](https://t.me/jor_ban)
   📷 [Instagram](https://www.instagram.com/chady_yes/)
   🔵 [Vkontakte](https://vk.com/please_god_help_me)
+  🤔 [StackOverflow](https://stackoverflow.com/users/13272986/)
