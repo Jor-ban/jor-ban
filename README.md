@@ -12,7 +12,7 @@ Love to perfect every detail && challenge myself and my skills
  
  ### Have knowledge in such technologies as:
   - Bootstrap
-  - REST API client
+  - HTTP requests (fetch API, Axios)
   - Google Firestore and Google API ( SDK )
   - SPA / SSR ( Vue + Nuxt )
   - Git
