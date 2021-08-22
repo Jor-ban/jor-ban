@@ -30,5 +30,6 @@ Love to perfect every detail && challenge myself and my skills
  ------------------------------------
  ### Contacts
   💬 [Telegram](https://t.me/jor_ban)
+  🧑 [LinkedIn](https://www.linkedin.com/in/jamol-nuriddinov-a569a4182/)
   📷 [Instagram](https://www.instagram.com/chady_yes/)
 <!--   🤔 [StackOverflow](https://stackoverflow.com/users/13272986/) -->
