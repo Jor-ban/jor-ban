@@ -6,10 +6,10 @@ Love to perfect every detail && challenge myself and my skills
 ------
 <!-- ![Jordan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jorban) -->
   <a align="center" href="https://github.com/random-jordan">
-     <img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorban&layout=compact" />
+     <img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorban&show_icons=true&hide_border=true&theme=radical&layout=compact" />
   </a>
   <a align="center" href="https://github.com/random-jordan">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true&hide_border=true&theme=radical&show_icons=true" />
   </a>
  
  ------------------------------------
