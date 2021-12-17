@@ -12,21 +12,6 @@ Love to perfect every detail && challenge myself and my skills
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=random-jordan&show_icons=true" />
   </a>
  
- ---------
- ### Have knowledge in such technologies as:
-  - Bootstrap
-  - HTTP requests (fetch API, Axios)
-  - Google Firestore and Google API ( SDK )
-  - SPA / SSR ( Vue + Nuxt )
-  - Git
-  - Photoshop / Illustrator / Figma
-  - GNU / Linux user
-  
-  -------------------------------
-### I speak:
- - English (moderate)
- - Russian (fluent)
- - Uzbek (native)
  ------------------------------------
  ### Contacts
   💬 [Telegram](https://t.me/jor_ban)
